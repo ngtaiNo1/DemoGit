@@ -1,0 +1,15 @@
+.tho{
+    font-style: italic;
+    font-weight: bolder;
+    font-variant: small-caps;
+    font-size: 16px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: blueviolet;
+    text-indent: 2em;
+    text-shadow: 3px 3px 1px black;
+    
+}
+h1{
+    font-style: italic;
+    text-shadow: 7px 5px 8px black;
+}
